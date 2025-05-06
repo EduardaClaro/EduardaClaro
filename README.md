@@ -74,3 +74,14 @@ Meu nome é Maria Eduarda Claro, tenho 18 anos e sou estudante do curso superior
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<br>
+<br>
