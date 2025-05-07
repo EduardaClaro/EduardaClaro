@@ -2,6 +2,18 @@
 
 **`Desenvolvedora FullStack`**
 
+<a href="https://github.com/EduardaClaro" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/maria-eduarda-claro-90b017313/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/eduarda_claro_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
+---
+
 <div style="text-align: justify; text-indent: 2em;">
 Meu nome é Maria Eduarda Claro, tenho 18 anos e sou estudante do curso superior de Análise e Desenvolvimento de Sistemas na Faculdade Senai, onde fui contemplada com uma bolsa de estudos. Atualmente, atuo como estagiária na empresa 2RPnet. Tenho grande paixão por tecnologia, com ênfase em desenvolvimento Frontend e conhecimentos em Backend. Possuo experiência prática em projetos pessoais que evidenciam minhas competências em ambas as áreas. Estou constantemente em busca de aprimoramento e comprometida em aplicar meu conhecimento na criação de soluções inovadoras.
 </div>
