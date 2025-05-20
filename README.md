@@ -15,7 +15,7 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
----
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
