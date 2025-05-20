@@ -16,6 +16,7 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
 </a>  
 
 <br>
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
