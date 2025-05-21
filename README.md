@@ -11,12 +11,14 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
 <a href="https://www.linkedin.com/in/maria-eduarda-claro-90b017313/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mariaeduardaclaro06@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo" style="margin-bottom: 5px;" height="27"  />
+</a>
 <a href="https://www.instagram.com/eduarda_claro_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-<br>
-<br>
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -104,7 +106,6 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
 <br>
 <br>
 <br>
-<br>
 
 <img
     alt="Linguagens"
@@ -112,3 +113,5 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaClaro&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+
