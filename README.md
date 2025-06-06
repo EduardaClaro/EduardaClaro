@@ -109,6 +109,6 @@ Maria Eduarda Claro, bolsista no curso de Análise e Desenvolvimento de Sistemas
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=EduardaClaro&theme=radical&include_all_commits=true&locale=pt-br" alt="Github Status" style="width: 45%; padding-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaClaro&theme=radical&layout=compact&langs_count=9" alt="Linguagens" style="width: 42%; padding-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaClaro&theme=radical&layout=compact&langs_count=9" alt="Linguagens" style="width: 27%; padding-right: 10px;">
   
 </div>
