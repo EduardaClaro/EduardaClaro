@@ -19,7 +19,7 @@
     <samp>
         <h3>Sobre mim:</h3>
         <p>
-            Apaixonada por tecnologia, cursa Análise e Desenvolvimento de Sistemas, desenvolvendo habilidades em programação, banco de dados e frameworks. Busca desafios, valoriza colaboração e visa contribuir em projetos inovadores com criatividade e dedicação para impactar positivamente a vida das pessoas.
+            Sou apaixonada por tecnologia, curso Análise e Desenvolvimento de Sistemas, desenvolvendo habilidades em programação, banco de dados e frameworks. Busco desafios, valorizo colaboração e viso contribuir em projetos inovadores com criatividade e dedicação para impactar positivamente a vida das pessoas.
         </p>
     </samp>
 </div>
